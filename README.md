@@ -1,5 +1,3 @@
-#latex/else 
-
 # Awesome-LaTeX-cn
 
 LaTeX 能够帮助我们进行专业化的排版，下面介绍我常用的一些 LaTeX 资源。
