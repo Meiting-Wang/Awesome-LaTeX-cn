@@ -31,7 +31,6 @@ LaTeX 能够帮助我们进行专业化的排版，下面介绍我常用的一�
       * [12.11 其他宏包](#1211-其他宏包)
 <!--te-->
 
-
 ## 2 其他的 Awesome-LaTeX
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - 介绍了 LaTeX 的各种工具，如编译引擎、网页工具、编辑器、在线编辑器、参考文献工具、表格工具、TikZ 工具等
 - [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) - 给出了大量有关 TikZ 的有用资源
